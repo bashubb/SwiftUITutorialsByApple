@@ -14,12 +14,12 @@ These projects require XCode 15 or above.
 
 Projects | Screenshots
 ---      | ---
-[Creating and combining views](01-SwiftUIEssentials/01-CreatingAndCombiningViews) | ![screen01](01-SwiftUIEssentials/01-CreatingAndCombiningViews/screenshots/small/screen01.png)
-[Building lists and navigation](01-SwiftUIEssentials/02-BuildingListsAndNavigation) | ![screen01](01-SwiftUIEssentials/02-BuildingListsAndNavigation/screenshots/small/screen01.png) ![screen02](01-SwiftUIEssentials/02-BuildingListsAndNavigation/screenshots/small/screen02.png)
-[Handling user input](01-SwiftUIEssentials/03-HandlingUserInput) | ![screen01](01-SwiftUIEssentials/03-HandlingUserInput/screenshots/small/screen01.png) ![screen02](01-SwiftUIEssentials/03-HandlingUserInput/screenshots/small/screen02.png) ![screen03](01-SwiftUIEssentials/03-HandlingUserInput/screenshots/small/screen03.png)
+[Creating and combining views](01-SwiftUIEssentials/01-CreatingAndCombiningViews) | <img src="https://github.com/bashubb/SwiftUITutorialsByApple/blob/main/01-SwiftUIEssentials/01-CreatingAndCombiningViews/TurtleRock.jpeg" height="10%">
+[Building lists and navigation](01-SwiftUIEssentials/02-BuildingListsAndNavigation) | <img src="https://github.com/bashubb/SwiftUITutorialsByApple/blob/main/01-SwiftUIEssentials/02-BuldingListsAndNavigation/Listnavigation1.jpeg" height="20%"><img src="https://github.com/bashubb/SwiftUITutorialsByApple/blob/main/01-SwiftUIEssentials/02-BuldingListsAndNavigation/Listnavigation2.jpeg" height="20%"><img src="https://github.com/bashubb/SwiftUITutorialsByApple/blob/main/01-SwiftUIEssentials/02-BuldingListsAndNavigation/ListNavigation3.jpeg" height="10%"><img src="https://github.com/bashubb/SwiftUITutorialsByApple/blob/main/01-SwiftUIEssentials/02-BuldingListsAndNavigation/ListNavigation4.jpeg" height="10%">
+[Handling user input](01-SwiftUIEssentials/03-HandlingUserInput) | <img src="https://github.com/bashubb/SwiftUITutorialsByApple/blob/main/01-SwiftUIEssentials/03-HandlingUserInput/userInput1.jpeg" height="10%"><img src="https://github.com/bashubb/SwiftUITutorialsByApple/blob/main/01-SwiftUIEssentials/03-HandlingUserInput/userinput2.jpeg" height="10%"><img src="https://github.com/bashubb/SwiftUITutorialsByApple/blob/main/01-SwiftUIEssentials/03-HandlingUserInput/userinput3.jpeg" height="10%">
 
 
-
+<!--
 
 ### Drawing and Animation
 
