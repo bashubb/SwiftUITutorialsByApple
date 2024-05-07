@@ -152,8 +152,8 @@
 			children = (
 				B56AB88B2BEA4538006E9887 /* Helpers */,
 				B56AB88E2BEA4538006E9887 /* Model */,
-				B56AB8922BEA4538006E9887 /* Resources */,
 				B56AB8972BEA4538006E9887 /* Views */,
+				B56AB8922BEA4538006E9887 /* Resources */,
 				B56AB8902BEA4538006E9887 /* Preview Content */,
 				B56AB8982BEA4538006E9887 /* Assets.xcassets */,
 			);
