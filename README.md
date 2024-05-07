@@ -19,17 +19,17 @@ Projects | Screenshots
 [Handling user input](01-SwiftUIEssentials/03-HandlingUserInput) | <img src="https://github.com/bashubb/SwiftUITutorialsByApple/blob/main/01-SwiftUIEssentials/03-HandlingUserInput/userInput1.jpeg" height="10%"><img src="https://github.com/bashubb/SwiftUITutorialsByApple/blob/main/01-SwiftUIEssentials/03-HandlingUserInput/userinput2.jpeg" height="10%"><img src="https://github.com/bashubb/SwiftUITutorialsByApple/blob/main/01-SwiftUIEssentials/03-HandlingUserInput/userinput3.jpeg" height="10%">
 
 
-<!--
+
 
 ### Drawing and Animation
 
 Projects | Screenshots
 ---      | ---
-[Drawing paths and shapes](02-DrawingAndAnimation/01-DrawingPathsAndShapes) | ![screen01](02-DrawingAndAnimation/01-DrawingPathsAndShapes/screenshots/small/screen01.png)
-[Animating views and transitions](02-DrawingAndAnimation/02-AnimatingViewsAndTransitions) | ![screen01](02-DrawingAndAnimation/02-AnimatingViewsAndTransitions/screenshots/small/screen01.png) ![screen02](02-DrawingAndAnimation/02-AnimatingViewsAndTransitions/screenshots/small/screen02.png) ![screen03](02-DrawingAndAnimation/02-AnimatingViewsAndTransitions/screenshots/small/screen03.png) ![screen04](02-DrawingAndAnimation/02-AnimatingViewsAndTransitions/screenshots/small/screen04.png)
+[Drawing paths and shapes](02-DrawingAndAnimation/01-DrawingPathsAndShapes) | <img src="https://github.com/bashubb/SwiftUITutorialsByApple/blob/main/02-DrawingAndAnimation/01-DrawingPathsAndShapes/drawing.jpeg" height="10%">
+[Animating views and transitions](02-DrawingAndAnimation/02-AnimatingViewsAndTransitions) | <img src="https://github.com/bashubb/SwiftUITutorialsByApple/blob/main/02-DrawingAndAnimation/02-AnimatingViewsAndTransitions/animation.gif" width="45%">
 
 
-
+<!--
 
 ### App design and layout
 
