@@ -1,10 +1,9 @@
-//
-//  ContentView.swift
-//  AnimatingViewsAndTransitions
-//
-//  Created by HubertMac on 07/05/2024.
-//
+/*
+See the LICENSE.txt file for this sample’s licensing information.
 
+Abstract:
+A view showing the list of landmarks.
+*/
 
 import SwiftUI
 
