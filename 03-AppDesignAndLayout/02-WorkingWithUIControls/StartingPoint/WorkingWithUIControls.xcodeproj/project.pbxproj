@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B5CF7A892BEE3BFA00A8D2BF /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5CF7A882BEE3BFA00A8D2BF /* Profile.swift */; };
+		B5CF7A8B2BEE3CBC00A8D2BF /* ProfileHost.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5CF7A8A2BEE3CBC00A8D2BF /* ProfileHost.swift */; };
+		B5CF7A8E2BEE3D4D00A8D2BF /* ProfileSummary.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5CF7A8D2BEE3D4D00A8D2BF /* ProfileSummary.swift */; };
+		B5CF7A902BEE3F4D00A8D2BF /* HikeBadge.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5CF7A8F2BEE3F4D00A8D2BF /* HikeBadge.swift */; };
 		C20D77EE24B665D7002E7AEA /* LandmarksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C20D77ED24B665D7002E7AEA /* LandmarksApp.swift */; };
 		C20D77F024B665D7002E7AEA /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = C20D77EF24B665D7002E7AEA /* LandmarkDetail.swift */; };
 		C20D77F224B665D8002E7AEA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C20D77F124B665D8002E7AEA /* Assets.xcassets */; };
@@ -39,6 +43,10 @@
 /* Begin PBXFileReference section */
 		0F836A4725F0F75D937337C5 /* SampleCode.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; name = SampleCode.xcconfig; path = Configuration/SampleCode.xcconfig; sourceTree = "<group>"; };
 		1F81038C3765316EB98FA0B4 /* LICENSE.txt */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
+		B5CF7A882BEE3BFA00A8D2BF /* Profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
+		B5CF7A8A2BEE3CBC00A8D2BF /* ProfileHost.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileHost.swift; sourceTree = "<group>"; };
+		B5CF7A8D2BEE3D4D00A8D2BF /* ProfileSummary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileSummary.swift; sourceTree = "<group>"; };
+		B5CF7A8F2BEE3F4D00A8D2BF /* HikeBadge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeBadge.swift; sourceTree = "<group>"; };
 		C20D77EA24B665D7002E7AEA /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C20D77ED24B665D7002E7AEA /* LandmarksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksApp.swift; sourceTree = "<group>"; };
 		C20D77EF24B665D7002E7AEA /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
@@ -97,6 +105,15 @@
 			path = LICENSE;
 			sourceTree = "<group>";
 		};
+		B5CF7A8C2BEE3CC600A8D2BF /* Profiles */ = {
+			isa = PBXGroup;
+			children = (
+				B5CF7A8A2BEE3CBC00A8D2BF /* ProfileHost.swift */,
+				B5CF7A8D2BEE3D4D00A8D2BF /* ProfileSummary.swift */,
+			);
+			path = Profiles;
+			sourceTree = "<group>";
+		};
 		C20D77E124B665D7002E7AEA = {
 			isa = PBXGroup;
 			children = (
@@ -143,6 +160,7 @@
 				C20D780424B684EC002E7AEA /* ModelData.swift */,
 				C20D780224B684BD002E7AEA /* Landmark.swift */,
 				C20D781F24B6CCCF002E7AEA /* Hike.swift */,
+				B5CF7A882BEE3BFA00A8D2BF /* Profile.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -175,6 +193,7 @@
 				C20D781C24B6CCA4002E7AEA /* HikeDetail.swift */,
 				C20D782124B6CD01002E7AEA /* HikeGraph.swift */,
 				C20D782324B6CD23002E7AEA /* GraphCapsule.swift */,
+				B5CF7A8F2BEE3F4D00A8D2BF /* HikeBadge.swift */,
 			);
 			path = Hikes;
 			sourceTree = "<group>";
@@ -208,6 +227,7 @@
 				C20D781924B6CA56002E7AEA /* Badges */,
 				C20D781E24B6CCB6002E7AEA /* Hikes */,
 				C2C583A924DB78EE00DD0019 /* Helpers */,
+				B5CF7A8C2BEE3CC600A8D2BF /* Profiles */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -250,7 +270,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = YES;
 				LastSwiftUpdateCheck = 1200;
-				LastUpgradeCheck = 1500;
+				LastUpgradeCheck = 1530;
 				ORGANIZATIONNAME = Apple;
 				TargetAttributes = {
 					C20D77E924B665D7002E7AEA = {
@@ -296,6 +316,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C20D782024B6CCCF002E7AEA /* Hike.swift in Sources */,
+				B5CF7A892BEE3BFA00A8D2BF /* Profile.swift in Sources */,
 				C20D782224B6CD01002E7AEA /* HikeGraph.swift in Sources */,
 				C2FEB32A24B7B649004FAB73 /* CategoryRow.swift in Sources */,
 				C2C583AD24DB793100DD0019 /* FavoriteButton.swift in Sources */,
@@ -306,7 +327,9 @@
 				C20D77FF24B67FB3002E7AEA /* MapView.swift in Sources */,
 				C20D781824B6C5F6002E7AEA /* RotatedBadgeSymbol.swift in Sources */,
 				C20D781624B6C582002E7AEA /* BadgeSymbol.swift in Sources */,
+				B5CF7A8E2BEE3D4D00A8D2BF /* ProfileSummary.swift in Sources */,
 				C2FEB32C24B7B855004FAB73 /* CategoryItem.swift in Sources */,
+				B5CF7A8B2BEE3CBC00A8D2BF /* ProfileHost.swift in Sources */,
 				C20D780B24B68B4D002E7AEA /* LandmarkList.swift in Sources */,
 				C2C583A824DB778400DD0019 /* ContentView.swift in Sources */,
 				C20D781424B6A662002E7AEA /* BadgeBackground.swift in Sources */,
@@ -314,6 +337,7 @@
 				C20D77EE24B665D7002E7AEA /* LandmarksApp.swift in Sources */,
 				C20D780124B6846F002E7AEA /* LandmarkRow.swift in Sources */,
 				C20D77FD24B668F4002E7AEA /* CircleImage.swift in Sources */,
+				B5CF7A902BEE3F4D00A8D2BF /* HikeBadge.swift in Sources */,
 				C20D781B24B6CC68002E7AEA /* HikeView.swift in Sources */,
 				C20D780324B684BD002E7AEA /* Landmark.swift in Sources */,
 				C20D782424B6CD23002E7AEA /* GraphCapsule.swift in Sources */,
@@ -362,6 +386,7 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -424,6 +449,7 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
