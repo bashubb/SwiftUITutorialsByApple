@@ -29,13 +29,14 @@ Projects | Screenshots
 [Animating views and transitions](02-DrawingAndAnimation/02-AnimatingViewsAndTransitions) | <img src="https://github.com/bashubb/SwiftUITutorialsByApple/blob/main/02-DrawingAndAnimation/02-AnimatingViewsAndTransitions/animation.gif" width="45%">
 
 
-<!--
+
 
 ### App design and layout
 
 Projects | Screenshots
 ---      | ---
-[Composing complex interfaces](03-AppDesignAndLayout/01-ComposingComplexInterfaces) | ![screen01](03-AppDesignAndLayout/01-ComposingComplexInterfaces/screenshots/small/screen01.png) ![screen02](03-AppDesignAndLayout/01-ComposingComplexInterfaces/screenshots/small/screen02.png) ![screen03](03-AppDesignAndLayout/01-ComposingComplexInterfaces/screenshots/small/screen03.png) ![screen04](03-AppDesignAndLayout/01-ComposingComplexInterfaces/screenshots/small/screen04.png)
+[Composing complex interfaces](03-AppDesignAndLayout/01-ComposingComplexInterfaces) | <img src="https://github.com/bashubb/SwiftUITutorialsByApple/blob/main/03-AppDesignAndLayout/01-ComposingComplexInterFaces/complexInterFaces1.jpeg" height="10%"><img src="https://github.com/bashubb/SwiftUITutorialsByApple/blob/main/03-AppDesignAndLayout/01-ComposingComplexInterFaces/complexInterFaces2.jpeg" height="10%"><img src="https://github.com/bashubb/SwiftUITutorialsByApple/blob/main/03-AppDesignAndLayout/01-ComposingComplexInterFaces/complexInterFaces3.jpeg" height="10%"><img src="https://github.com/bashubb/SwiftUITutorialsByApple/blob/main/03-AppDesignAndLayout/01-ComposingComplexInterFaces/complexInterFaces4.jpeg" height="10%">
+<!--
 [Working with UI controls](03-AppDesignAndLayout/02-WorkingWithUIControls) | ![screen01](03-AppDesignAndLayout/02-WorkingWithUIControls/screenshots/small/screen01.png) ![screen02](03-AppDesignAndLayout/02-WorkingWithUIControls/screenshots/small/screen02.png) ![screen03](03-AppDesignAndLayout/02-WorkingWithUIControls/screenshots/small/screen03.png) ![screen04](03-AppDesignAndLayout/02-WorkingWithUIControls/screenshots/small/screen04.png)
 
 
