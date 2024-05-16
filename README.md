@@ -36,8 +36,7 @@ Projects | Screenshots
 Projects | Screenshots
 ---      | ---
 [Composing complex interfaces](03-AppDesignAndLayout/01-ComposingComplexInterfaces) | <img src="https://github.com/bashubb/SwiftUITutorialsByApple/blob/main/03-AppDesignAndLayout/01-ComposingComplexInterFaces/complexInterFaces1.jpeg" height="10%"><img src="https://github.com/bashubb/SwiftUITutorialsByApple/blob/main/03-AppDesignAndLayout/01-ComposingComplexInterFaces/complexInterFaces2.jpeg" height="10%"><img src="https://github.com/bashubb/SwiftUITutorialsByApple/blob/main/03-AppDesignAndLayout/01-ComposingComplexInterFaces/complexInterFaces3.jpeg" height="10%"><img src="https://github.com/bashubb/SwiftUITutorialsByApple/blob/main/03-AppDesignAndLayout/01-ComposingComplexInterFaces/complexInterFaces4.jpeg" height="10%">
-<!--
-[Working with UI controls](03-AppDesignAndLayout/02-WorkingWithUIControls) | ![screen01](03-AppDesignAndLayout/02-WorkingWithUIControls/screenshots/small/screen01.png) ![screen02](03-AppDesignAndLayout/02-WorkingWithUIControls/screenshots/small/screen02.png) ![screen03](03-AppDesignAndLayout/02-WorkingWithUIControls/screenshots/small/screen03.png) ![screen04](03-AppDesignAndLayout/02-WorkingWithUIControls/screenshots/small/screen04.png)
+[Working with UI controls](03-AppDesignAndLayout/02-WorkingWithUIControls) | <img src="https://github.com/bashubb/SwiftUITutorialsByApple/blob/main/03-AppDesignAndLayout/02-WorkingWithUIControls/workingWithUIControls_1.jpeg" height="10%"><img src="https://github.com/bashubb/SwiftUITutorialsByApple/blob/main/03-AppDesignAndLayout/02-WorkingWithUIControls/workingWithUIControls_2.jpeg" height="10%">
 
 
 
@@ -46,6 +45,6 @@ Projects | Screenshots
 
 Projects | Screenshots
 ---      | ---
-[Interfacing with UIKit](04-FrameworkIntegration/01-InterfacingWithUIKit) | ![screen01](04-FrameworkIntegration/01-InterfacingWithUIKit/screenshots/small/screen01.png) ![screen02](04-FrameworkIntegration/01-InterfacingWithUIKit/screenshots/small/screen02.png)
-[Creating a WatchOS App](04-FrameworkIntegration/02-CreatingAWatchOSApp) | ![screen01](04-FrameworkIntegration/02-CreatingAWatchOSApp/screenshots/small/screen01.png) ![screen02](04-FrameworkIntegration/02-CreatingAWatchOSApp/screenshots/small/screen02.png) ![screen03](04-FrameworkIntegration/02-CreatingAWatchOSApp/screenshots/small/screen03.png) ![screen04](04-FrameworkIntegration/02-CreatingAWatchOSApp/screenshots/small/screen04.png) ![screen05](04-FrameworkIntegration/02-CreatingAWatchOSApp/screenshots/small/screen05.png)
+[Interfacing with UIKit](04-FrameworkIntegration/01-InterfacingWithUIKit) | <img src="https://github.com/bashubb/SwiftUITutorialsByApple/blob/main/04-FrameworkIntegration/01-InterFacingWithUIKit/integratewithUIKit_1.jpeg" height="10%"><img src="https://github.com/bashubb/SwiftUITutorialsByApple/blob/main/04-FrameworkIntegration/01-InterFacingWithUIKit/integratewithUIKit_2.jpeg" height="10%">
+<!--[Creating a WatchOS App](04-FrameworkIntegration/02-CreatingAWatchOSApp) | ![screen01](04-FrameworkIntegration/02-CreatingAWatchOSApp/screenshots/small/screen01.png) ![screen02](04-FrameworkIntegration/02-CreatingAWatchOSApp/screenshots/small/screen02.png) ![screen03](04-FrameworkIntegration/02-CreatingAWatchOSApp/screenshots/small/screen03.png) ![screen04](04-FrameworkIntegration/02-CreatingAWatchOSApp/screenshots/small/screen04.png) ![screen05](04-FrameworkIntegration/02-CreatingAWatchOSApp/screenshots/small/screen05.png)
 [Creating a MacOS App](04-FrameworkIntegration/03-CreatingAMacOSApp) | ![screen01](04-FrameworkIntegration/03-CreatingAMacOSApp/screenshots/small/screen01.png)
