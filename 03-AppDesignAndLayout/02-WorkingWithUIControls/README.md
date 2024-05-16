@@ -1,3 +1,10 @@
-# Completed project: Composing complex interfaces
+# Working with UI controls
 
-Explore the completed project for the [Composing complex interfaces](https://developer.apple.com/tutorials/swiftui/composing-complex-interfaces) tutorial.
+https://developer.apple.com/tutorials/swiftui/working-with-ui-controls
+
+## Adjustments
+- Adjustments to make HikeView functional
+
+## Screenshots
+
+<img src="https://github.com/bashubb/SwiftUITutorialsByApple/blob/main/03-AppDesignAndLayout/02-WorkingWithUIControls/workingWithUIControls_1.jpeg" width="40%"><img src="https://github.com/bashubb/SwiftUITutorialsByApple/blob/main/03-AppDesignAndLayout/02-WorkingWithUIControls/workingWithUIControls_2.jpeg" width="40%">
