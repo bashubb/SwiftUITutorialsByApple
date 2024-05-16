@@ -41,6 +41,7 @@ struct ProfileEditor: View {
                 Text("Goal Date")
             }
         }
+        .listStyle(.plain)
     }
 }
 
