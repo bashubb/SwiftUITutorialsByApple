@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B5C388102BF672F20004ADF6 /* ProfileEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C3880F2BF672F20004ADF6 /* ProfileEditor.swift */; };
 		B5CF7A892BEE3BFA00A8D2BF /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5CF7A882BEE3BFA00A8D2BF /* Profile.swift */; };
 		B5CF7A8B2BEE3CBC00A8D2BF /* ProfileHost.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5CF7A8A2BEE3CBC00A8D2BF /* ProfileHost.swift */; };
 		B5CF7A8E2BEE3D4D00A8D2BF /* ProfileSummary.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5CF7A8D2BEE3D4D00A8D2BF /* ProfileSummary.swift */; };
@@ -43,6 +44,7 @@
 /* Begin PBXFileReference section */
 		0F836A4725F0F75D937337C5 /* SampleCode.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; name = SampleCode.xcconfig; path = Configuration/SampleCode.xcconfig; sourceTree = "<group>"; };
 		1F81038C3765316EB98FA0B4 /* LICENSE.txt */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
+		B5C3880F2BF672F20004ADF6 /* ProfileEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileEditor.swift; sourceTree = "<group>"; };
 		B5CF7A882BEE3BFA00A8D2BF /* Profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
 		B5CF7A8A2BEE3CBC00A8D2BF /* ProfileHost.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileHost.swift; sourceTree = "<group>"; };
 		B5CF7A8D2BEE3D4D00A8D2BF /* ProfileSummary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileSummary.swift; sourceTree = "<group>"; };
@@ -110,6 +112,7 @@
 			children = (
 				B5CF7A8A2BEE3CBC00A8D2BF /* ProfileHost.swift */,
 				B5CF7A8D2BEE3D4D00A8D2BF /* ProfileSummary.swift */,
+				B5C3880F2BF672F20004ADF6 /* ProfileEditor.swift */,
 			);
 			path = Profiles;
 			sourceTree = "<group>";
@@ -333,6 +336,7 @@
 				C20D780B24B68B4D002E7AEA /* LandmarkList.swift in Sources */,
 				C2C583A824DB778400DD0019 /* ContentView.swift in Sources */,
 				C20D781424B6A662002E7AEA /* BadgeBackground.swift in Sources */,
+				B5C388102BF672F20004ADF6 /* ProfileEditor.swift in Sources */,
 				C2FEB32824B7B498004FAB73 /* CategoryHome.swift in Sources */,
 				C20D77EE24B665D7002E7AEA /* LandmarksApp.swift in Sources */,
 				C20D780124B6846F002E7AEA /* LandmarkRow.swift in Sources */,
