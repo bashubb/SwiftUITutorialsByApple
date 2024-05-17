@@ -47,5 +47,5 @@ Projects | Screenshots
 ---      | ---
 [Interfacing with UIKit](04-FrameworkIntegration/01-InterfacingWithUIKit) | <img src="https://github.com/bashubb/SwiftUITutorialsByApple/blob/main/04-FrameworkIntegration/01-InterFacingWithUIKit/integratewithUIKit_1.jpeg" height="10%"><img src="https://github.com/bashubb/SwiftUITutorialsByApple/blob/main/04-FrameworkIntegration/01-InterFacingWithUIKit/integratewithUIKit_2.jpeg" height="10%">
 [Creating a WatchOS App](04-FrameworkIntegration/02-CreatingAWatchOSApp) | <img src="https://github.com/bashubb/SwiftUITutorialsByApple/blob/main/04-FrameworkIntegration/02-CreatingAWatchOSApp/watch_1.jpeg" height="35%"><img src="https://github.com/bashubb/SwiftUITutorialsByApple/blob/main/04-FrameworkIntegration/02-CreatingAWatchOSApp/watch_2.jpeg" height="35%"><img src="https://github.com/bashubb/SwiftUITutorialsByApple/blob/main/04-FrameworkIntegration/02-CreatingAWatchOSApp/watch_3.jpeg" height="35%"><img src="https://github.com/bashubb/SwiftUITutorialsByApple/blob/main/04-FrameworkIntegration/02-CreatingAWatchOSApp/watch_4.jpeg" height="35%">
-<!--
-[Creating a MacOS App](04-FrameworkIntegration/03-CreatingAMacOSApp) | ![screen01](04-FrameworkIntegration/03-CreatingAMacOSApp/screenshots/small/screen01.png)
+[Creating a MacOS App](04-FrameworkIntegration/03-CreatingAMacOSApp) | <img src="https://github.com/bashubb/SwiftUITutorialsByApple/blob/main/04-FrameworkIntegration/03-CreatingAMacOSApp/macOS_2.png" width="80%">
+
