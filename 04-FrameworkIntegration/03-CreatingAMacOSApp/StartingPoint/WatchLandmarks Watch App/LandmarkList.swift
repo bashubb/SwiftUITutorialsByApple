@@ -1,9 +1,10 @@
-/*
-See the LICENSE.txt file for this sample’s licensing information.
-
-Abstract:
-A view showing a list of landmarks.
-*/
+//
+//  LandmarkList.swift
+//  WatchLandmarks Watch App
+//
+//  Created by HubertMac on 17/05/2024.
+//  Copyright © 2024 Apple. All rights reserved.
+//
 
 import SwiftUI
 
@@ -34,7 +35,6 @@ struct LandmarkList: View {
             }
             .animation(.default, value: filteredLandmarks)
             .navigationTitle("Landmarks")
-            .frame(minWidth: 300)
         } detail: {
             Text("Select a Landmark")
         }
