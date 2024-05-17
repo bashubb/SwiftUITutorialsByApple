@@ -484,7 +484,7 @@
 					};
 				};
 			};
-			buildConfigurationList = C20D77E524B665D7002E7AEA /* Build configuration list for PBXProject "CreatingAwatchOSApp" */;
+			buildConfigurationList = C20D77E524B665D7002E7AEA /* Build configuration list for PBXProject "CreatingAMacOSApp" */;
 			compatibilityVersion = "Xcode 15.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -976,7 +976,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C20D77E524B665D7002E7AEA /* Build configuration list for PBXProject "CreatingAwatchOSApp" */ = {
+		C20D77E524B665D7002E7AEA /* Build configuration list for PBXProject "CreatingAMacOSApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C20D77F724B665D8002E7AEA /* Debug */,
